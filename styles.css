@@ -138,12 +138,12 @@ nav a {
     }
 
     nav ul {
-        flex-direction: column;
+        flex-direction: row;
         gap: 0.5rem;
     }
 
     nav .logo {
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
 
     .download-btn {
