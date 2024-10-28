@@ -133,7 +133,7 @@ nav a {
 
 @media (max-width: 480px) {
     nav .nav-container {
-        flex-direction: column;
+        flex-direction: row;
         align-items: flex-start;
     }
 
