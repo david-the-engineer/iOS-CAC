@@ -135,6 +135,8 @@ nav a {
     nav .nav-container {
         flex-direction: row;
         align-items: flex-start;
+        padding: 0;
+        margin: 0 auto;
     }
 
     nav ul {
